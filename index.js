@@ -52,4 +52,3 @@ function gotMessage(msg) {
 		msg.reply('pong');
 	}
 }
-
